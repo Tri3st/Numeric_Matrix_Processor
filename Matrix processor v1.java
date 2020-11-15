@@ -1,3 +1,11 @@
+/**
+ * Numeric Matrix Processor 
+ * Written for Hyperskill challenge 
+ * by 
+ * @author Martin van Diest
+ * 
+ */
+
 package processor;
 import java.util.Scanner;
 
